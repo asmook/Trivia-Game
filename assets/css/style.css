@@ -1,0 +1,31 @@
+body{
+	background: url("../images/pic.jpg");
+
+}
+
+h1{
+	text-align: center;
+	font-weight: bold;
+	font-size: 80px;
+	margin-top: 80px;
+	color: darkblue;
+
+}
+
+h2, div, p, #countdown{
+	font-size: 25px;
+	color: white;
+}
+
+#main-container{
+	background-color: darkblue;
+	margin-left: 300px;
+	margin-top: 100px;
+	margin-right: 300px;
+	margin-bottom: 100px;
+    border-radius: 25px;
+    padding: 60px;
+    text-align: center;
+
+
+}
